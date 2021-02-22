@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZrDrugs.Client", "ZrDrugs.Client\ZrDrugs.Client.csproj", "{EE62D907-7432-4612-B1CE-3C4D09B3E724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZrDrugs.Server", "ZrDrugs.Server\ZrDrugs.Server.csproj", "{540F3180-8871-4C39-8D6B-88CF25E306CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B176F0D7-6E4F-4CBA-895D-061E8129F794}"
+	ProjectSection(SolutionItems) = preProject
+		Resource\fxmanifest.lua = Resource\fxmanifest.lua
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE62D907-7432-4612-B1CE-3C4D09B3E724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE62D907-7432-4612-B1CE-3C4D09B3E724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE62D907-7432-4612-B1CE-3C4D09B3E724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE62D907-7432-4612-B1CE-3C4D09B3E724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540F3180-8871-4C39-8D6B-88CF25E306CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540F3180-8871-4C39-8D6B-88CF25E306CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540F3180-8871-4C39-8D6B-88CF25E306CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540F3180-8871-4C39-8D6B-88CF25E306CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {621A0E17-E3BC-406E-B2EB-3EF69E0CF15E}
+	EndGlobalSection
+EndGlobal
